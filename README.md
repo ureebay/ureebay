@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian! <br/><a href=https://www.linkedin.com/in/sebastianuribediaz/">MIS Student @ GMU </a>, <a href="https://github.com/ureebay">Aspiring Tech Business Consultant</a></h1>
+<h1>Hi, I'm Sebastian! <br/><a href=https://www.linkedin.com/in/sebastianuribediaz/">MIS Student @ GMU </a>, <a href="https://github.com/ureebay"></a></h1>
 
 <h2>👨‍💻 MIS Projects:</h2>
 
