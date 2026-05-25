@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/sebastianuribediaz/">MIS Student @ GMU</a>, 
 </h1>
 
-<h2>👨‍💻 MIS Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
 <a href="https://github.com/ureebay/virginia-eva-procurement-analysis">
 Virginia EVA Procurement Analysis
